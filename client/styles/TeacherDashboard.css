@@ -1,0 +1,40 @@
+/* src/pages/TeacherDashboard.css */
+.teacher-dashboard {
+    padding: 20px;
+  }
+  
+  .teacher-dashboard h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .teacher-dashboard .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .teacher-dashboard label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .teacher-dashboard input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .teacher-dashboard button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    color: white;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .teacher-dashboard button:hover {
+    background-color: #45a049;
+  }
+  
